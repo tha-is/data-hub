@@ -1,0 +1,14 @@
+{
+  "name": "Data Hub - Tema inicial",
+  "dataColors": [
+    "#2457A7",
+    "#00A6A6",
+    "#F2A541",
+    "#6B7280",
+    "#7C5CC4",
+    "#D96C75"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#263238",
+  "tableAccent": "#2457A7"
+}

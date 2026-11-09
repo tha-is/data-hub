@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Frontend
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Local data and generated artifacts
+data/
+storage/
+uploads/
+exports/
+*.parquet
+*.csv
+*.xlsx
+*.pbix
+*.pbit
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
